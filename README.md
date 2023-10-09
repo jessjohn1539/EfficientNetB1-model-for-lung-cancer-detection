@@ -22,10 +22,10 @@
 3. Establish a versatile framework for further expansion, encompassing the potential to refine classification accuracy, incorporate subtype classification, and contribute to ongoing research in lung cancer detection
 
 ## System Architecture
-![System Architecture](images/sys_arch.png)
+![System Architecture](sys_arch_grp5.drawio.png)
 
 ## Use case diagram
-![Use case diagram](images/use_case.png)
+![Use case diagram](use_case_grp5.drawio.png)
 
 ## Gantt chart
 ![Gantt chart](images/gantt_chart.png)
