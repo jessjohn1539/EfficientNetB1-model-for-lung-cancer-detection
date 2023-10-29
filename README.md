@@ -23,7 +23,7 @@
 
 ## System Architecture
 
-<img src="sys_arch_grp5.drawio.png" alt="System Architecture" width="700" height="650">
+<img src="sys_arch.drawio.png" alt="System Architecture" width="700" height="650">
 
 ## Use case diagram
 
