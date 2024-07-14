@@ -1,4 +1,4 @@
-# Computer Vision Model for Lung Cancer Detection using Biopsy Images
+# EfficientNetB1 Model for Lung Cancer Detection using Biopsy Images
 
 ## Problem Statement
 
