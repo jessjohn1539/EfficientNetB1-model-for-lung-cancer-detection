@@ -1,4 +1,4 @@
 streamlit
-tensorflow==2.14.0
+tensorflow
 numpy
 opencv-python-headless
